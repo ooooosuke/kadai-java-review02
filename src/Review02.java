@@ -1,5 +1,5 @@
 
-public class kadai02 {
+public class Review02 {
 
     public static void main(String[] args) {
         for(int i = 1; i <= 100; i++){
